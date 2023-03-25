@@ -1,2 +1,2 @@
 # jwt-implementation
-Token and Role Base Authentication Using Spring Boot, JWT and MySQL.
+Token and role based authentication using Spring Boot, JWT and MySQL.
